@@ -18,5 +18,6 @@ class     student
      ~student();
      student(const student &);
      student & operator = (const student &);
+     void getStudentName(char * name);
 };
 

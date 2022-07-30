@@ -40,3 +40,25 @@ student & student::operator = (const student & source)
      }
      return *this;
 }
+
+void student::getStudentName(char *name) {
+    char lowerFirst[MAX_CHARS] = {tolower(this->name[0])};
+    char * test = this->name;
+    int length = strlen(this->name);
+    int last = strlen(this->name) - 5;
+
+    if(length < 6) {
+        for(int i = 0; i < length; i++){
+            test[i] = tolower(test[i]);
+        }
+        strcpy(name,test);
+    } else {
+        test[0] = tolower(test[0]);
+        for(int i = last; i < last; i++){
+            test[i] = tolower(test[i]);
+        }
+        strcpy(name,test);
+    }
+
+
+}

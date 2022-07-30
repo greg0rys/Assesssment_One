@@ -1,0 +1,6 @@
+Script started on 2022-07-29 19:53:01-07:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="119" LINES="10"]
+[1m[7m%[27m[1m[0m                                                                                                                       ]2;gregshenefelt@pop-os:~/Assesssment_One]1;..sesssment_One[0m[27m[24m[J[01;36m☁ [01;32m [32mAssesssment_One [01;36m[32m[[36mmaster[32m] [33m⚡ [00m[00m[01;34m [00m[K[?1h=[?2004hm mmain[?1l>[?2004l
+]2;main]1;mainzsh: command not found: main
+[1m[7m%[27m[1m[0m                                                                                                                       ]2;gregshenefelt@pop-os:~/Assesssment_One]1;..sesssment_One[0m[27m[24m[J[01;36m☁ [01;32m [32mAssesssment_One [01;36m[32m[[36mmaster[32m] [33m⚡ [00m[00m[01;34m [00m[K[?1h=[?2004heexit[?1l>[?2004l
+]2;exit]1;exit
+Script done on 2022-07-29 19:53:06-07:00 [COMMAND_EXIT_CODE="127"]
